@@ -1,0 +1,6 @@
+.vscode
+node_modules
+.env
+__pycache__/
+*.pyc
+commit-plan.ps1
