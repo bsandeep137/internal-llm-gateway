@@ -9,3 +9,5 @@ python-jose[cryptography]>=3.3.0
 passlib[bcrypt]>=1.7.4
 python-multipart>=0.0.9
 prometheus-fastapi-instrumentator>=6.1.0
+psycopg[binary]>=3.3.4
+redis>=5.0.0
